@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Whatsapp Clone</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="keyword">Keyword</string>
+    <string name="profile_background">Profile Background</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="send_message">Send Message</string>
+    <string name="write_your_message">Write your message</string>
+    <string name="you_got_an_image">You got an Image</string>
+    <string name="profile_image_chat">Profile Image Chat</string>
+    <string name="you_send_an_image">You send an Image</string>
+</resources>

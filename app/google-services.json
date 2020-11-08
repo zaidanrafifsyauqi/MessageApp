@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664218410110",
+    "firebase_url": "https://messengerapp-285d2.firebaseio.com",
+    "project_id": "messengerapp-285d2",
+    "storage_bucket": "messengerapp-285d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664218410110:android:b2ef2d1302985348120c2f",
+        "android_client_info": {
+          "package_name": "belajar.whatsappclone.zrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664218410110-tn9ds5nq2bf7o878f6suj2bdbubn49ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZ68WAMdHox0Jnt8qjNEbeEmmOp--V3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664218410110-tn9ds5nq2bf7o878f6suj2bdbubn49ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
